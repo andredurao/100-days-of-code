@@ -15,3 +15,20 @@
 **Today's Progress**: Added the log interface on the first example and the second example from the book
 
 **Thoughts** I should also add the same log interface that I've added on the first example on the second.
+
+
+### Day 2: January 04, 2017
+
+**Today's Progress**: Continued with the second example from the book and tried to deploy the Markdown app to heroku.
+It didn't worked YET, though the book explanation was easy the Heroku deploy was rejected:
+
+```
+  error fetching custom buildpack
+```
+
+I've decided to follow Heroku's documentation on how to deploy go applications (https://devcenter.heroku.com/articles/getting-started-with-go) and deploy the Markdown example based on that.
+
+I've also created a new repository (https://github.com/andredurao/simple-markdown-generator-in-go) where I will follow the Heroku's documentation and deploy the app.
+
+**Thoughts** The sample app from Heroku was deployed to https://frozen-depths-34486.herokuapp.com/
+
