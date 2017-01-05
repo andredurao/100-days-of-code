@@ -32,3 +32,12 @@ I've also created a new repository (https://github.com/andredurao/simple-markdow
 
 **Thoughts** The sample app from Heroku was deployed to https://frozen-depths-34486.herokuapp.com/
 
+### Day 3: January 05, 2017
+
+**Today's Progress**: Did a lot of changes on the second example.
+1. Learned about govendor (https://github.com/kardianos/govendor) and gin (https://github.com/gin-gonic/gin).
+2. I've replaced the original index.html from the example into three templates index, header and footer.
+3. Used the govendor to maintain the dependecies on my app.
+4. Created a get function for gin router's to serve the main content
+5. Created a post function to generate the html from the markdown
+
