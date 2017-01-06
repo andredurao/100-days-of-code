@@ -41,3 +41,11 @@ I've also created a new repository (https://github.com/andredurao/simple-markdow
 4. Created a get function for gin router's to serve the main content
 5. Created a post function to generate the html from the markdown
 
+### Day 4: January 06, 2017
+
+**Today's Progress**: Finally deployed the app on heroku.
+The app is at (https://simplemarkdowngenerator.herokuapp.com/) and it follows the style and structure of Heroku's example.
+1. `heroku local` was running a different app because I forgot to update the `Procfile` with the name of the project
+2. To run `heroku local` I needed to compile and install the binaries of the project `go build` and `go install`
+3. Another thing that is different from the book: the buildpack informed is no longer a github repository; now it's just `heroku/go`
+4. Now I can continue with the book.
