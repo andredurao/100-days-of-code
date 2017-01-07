@@ -49,3 +49,8 @@ The app is at (https://simplemarkdowngenerator.herokuapp.com/) and it follows th
 2. To run `heroku local` I needed to compile and install the binaries of the project `go build` and `go install`
 3. Another thing that is different from the book: the buildpack informed is no longer a github repository; now it's just `heroku/go`
 4. Now I can continue with the book.
+
+### Day 5: January 07, 2017
+
+**Today's Progress**: Added example 3 from the book.
+Also added a README, which by the way I think it should be present on all examples, on example 3.
