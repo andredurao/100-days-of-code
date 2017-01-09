@@ -59,3 +59,9 @@ Also added a README, which by the way I think it should be present on all exampl
 
 **Today's Progress**: Added example 4 from the book.
 Also added a README, This example is just to explain how a middleware is implemented. It is not safe to add the password on a parameter via GET, OK. But instead of a password check this middleware could check a cookie to verify if a user is logged on the app.
+
+### Day 7: January 09, 2017
+
+** Today's Progress**: Added the example 5 from the book.
+This example, although simpler the the fourth, covers two Go concepts: Structs and Encodings
+
