@@ -54,3 +54,8 @@ The app is at (https://simplemarkdowngenerator.herokuapp.com/) and it follows th
 
 **Today's Progress**: Added example 3 from the book.
 Also added a README, which by the way I think it should be present on all examples, on example 3.
+
+### Day 6: January 08, 2017
+
+**Today's Progress**: Added example 4 from the book.
+Also added a README, This example is just to explain how a middleware is implemented. It is not safe to add the password on a parameter via GET, OK. But instead of a password check this middleware could check a cookie to verify if a user is logged on the app.
