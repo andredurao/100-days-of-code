@@ -62,10 +62,15 @@ Also added a README, This example is just to explain how a middleware is impleme
 
 ### Day 7: January 09, 2017
 
-** Today's Progress**: Added the example 5 from the book.
+**Today's Progress**: Added the example 5 from the book.
 This example, although simpler the the fourth, covers two Go concepts: Structs and Encodings
 
 ### Day 8: January 10, 2017
 
-** Today's Progress**: Added the example 6 from the book.
+**Today's Progress**: Added the example 6 from the book.
 This example, uses the template interface from golang. I'm thinking that I will need to update the directory structure to group the rendering examples on a same directory.
+
+### Day 9: January 11, 2017
+
+**Today's Progress**: Added the example 7 from the book.
+This example shows a simple usage of `render` package and how it can help rendering different types of content.
