@@ -74,3 +74,8 @@ This example, uses the template interface from golang. I'm thinking that I will 
 
 **Today's Progress**: Added the example 7 from the book.
 This example shows a simple usage of `render` package and how it can help rendering different types of content.
+
+### Day 10: January 12, 2017
+
+**Today's Progress**: Added the example 8 from the book.
+This example loads a simple server and testes if the param custom_param is on the response on a test
