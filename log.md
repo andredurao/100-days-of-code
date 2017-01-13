@@ -79,3 +79,8 @@ This example shows a simple usage of `render` package and how it can help render
 
 **Today's Progress**: Added the example 8 from the book.
 This example loads a simple server and testes if the param custom_param is on the response on a test
+
+### Day 11: January 13, 2017
+
+**Today's Progress**: Adder the example 9 from the book
+This example adds an end-to-end test and show an example of middleware using the httprouter and negroni packages.
