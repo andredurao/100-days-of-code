@@ -84,3 +84,9 @@ This example loads a simple server and testes if the param custom_param is on th
 
 **Today's Progress**: Adder the example 9 from the book
 This example adds an end-to-end test and show an example of middleware using the httprouter and negroni packages.
+
+### Day 12: January 14, 2017
+
+**Today's Progress**: Adder the example 10 from the book
+This example took was the most difficult because it required the understanding of almost all the previous examples.
+I've managed to implement the exercises; Now I need to check how good they are written.
