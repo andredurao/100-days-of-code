@@ -96,3 +96,9 @@ I've managed to implement the exercises; Now I need to check how good they are w
 **Today's Progress**: Added the example 11 from the book
 This example was missing some information about how to insert data on books table, I've added how I did on the README file.
 I've managed to implement the exercises; Now I need to check how good they are written.
+
+### Day 14: January 16, 2017
+
+**Today's Progress**: Implementing the query records exercise fom databases chapter
+Created the struct Book and now I'm trying to load all records of books on a `map` of Book.
+It's not running, yet. Hopefully I will finish this exercise tomorrow.
