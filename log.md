@@ -82,11 +82,17 @@ This example loads a simple server and testes if the param custom_param is on th
 
 ### Day 11: January 13, 2017
 
-**Today's Progress**: Adder the example 9 from the book
+**Today's Progress**: Added the example 9 from the book
 This example adds an end-to-end test and show an example of middleware using the httprouter and negroni packages.
 
 ### Day 12: January 14, 2017
 
-**Today's Progress**: Adder the example 10 from the book
+**Today's Progress**: Added the example 10 from the book
 This example took was the most difficult because it required the understanding of almost all the previous examples.
+I've managed to implement the exercises; Now I need to check how good they are written.
+
+### Day 13: January 15, 2017
+
+**Today's Progress**: Added the example 11 from the book
+This example was missing some information about how to insert data on books table, I've added how I did on the README file.
 I've managed to implement the exercises; Now I need to check how good they are written.
