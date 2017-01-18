@@ -102,3 +102,9 @@ I've managed to implement the exercises; Now I need to check how good they are w
 **Today's Progress**: Implementing the query records exercise fom databases chapter
 Created the struct Book and now I'm trying to load all records of books on a `map` of Book.
 It's not running, yet. Hopefully I will finish this exercise tomorrow.
+
+### Day 15: January 17, 2017
+
+**Today's Progress**: Iterating through the Books map array.
+Prepared the action to fill a map of Book structs.
+Next step: iterate and render the map on the view(template)
