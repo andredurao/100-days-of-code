@@ -108,3 +108,8 @@ It's not running, yet. Hopefully I will finish this exercise tomorrow.
 **Today's Progress**: Iterating through the Books map array.
 Prepared the action to fill a map of Book structs.
 Next step: iterate and render the map on the view(template)
+
+### Day 16: January 18, 2017
+
+**Today's Progress**: Iterating through the Books map array.
+Created a template and moved the iteration to the view: OK!
