@@ -113,3 +113,12 @@ Next step: iterate and render the map on the view(template)
 
 **Today's Progress**: Iterating through the Books map array.
 Created a template and moved the iteration to the view: OK!
+
+### Day 17: January 19, 2017
+
+**Today's Progress**: Created a Dockerfiler to learn how to run apps like this on Docker.
+Followed these guides, but there's still much to learn:
+
+https://blog.golang.org/docker
+https://blog.codeship.com/what-is-a-dockerfile/
+https://blog.codeship.com/building-minimal-docker-containers-for-go-applications/
