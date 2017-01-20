@@ -122,3 +122,12 @@ Followed these guides, but there's still much to learn:
 https://blog.golang.org/docker
 https://blog.codeship.com/what-is-a-dockerfile/
 https://blog.codeship.com/building-minimal-docker-containers-for-go-applications/
+
+### Day 18: January 20, 2017
+
+**Today's Progress**: I was looking for a way to check the temperature of my mac and most of the things I found required an app to be installed.
+I wish to do that on a command line, not to install some app that bundles a lot of others things that may not be useful to me.
+Then I found this ruby gem (iStats) that gives me that data, the gem comes with a fancy executable with shows some graphs on the terminal.
+It's ok that's what I want. After a look at the native extension I've decided to change a few things because there's no need for a Gem for what I need.
+
+I've created this repository on https://github.com/andredurao/osx-cpu-info which contains the iStats gem native functions without the ruby bindings.
