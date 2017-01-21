@@ -131,3 +131,7 @@ Then I found this ruby gem (iStats) that gives me that data, the gem comes with 
 It's ok that's what I want. After a look at the native extension I've decided to change a few things because there's no need for a Gem for what I need.
 
 I've created this repository on https://github.com/andredurao/osx-cpu-info which contains the iStats gem native functions without the ruby bindings.
+
+### Day 19: January 21, 2017
+
+**Today's Progress**: Got back on golang, now implementing and studying astaxie's book.
