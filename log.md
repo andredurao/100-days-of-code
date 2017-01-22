@@ -135,3 +135,8 @@ I've created this repository on https://github.com/andredurao/osx-cpu-info which
 ### Day 19: January 21, 2017
 
 **Today's Progress**: Got back on golang, now implementing and studying astaxie's book.
+
+### Day 20: January 22, 2017
+
+**Today's Progress**: Arranged the directories to split examples from codegangsta and astaxie books.
+Also added the second example from astaxie's book.
