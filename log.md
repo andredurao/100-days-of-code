@@ -149,3 +149,8 @@ Also added the second example from astaxie's book.
 
 **Today's Progress**: Back on cpu-info C project; I've added a main file to parse arguments.
 My goal is to split the main and lib files to get a lightweight executable that's usable even on PS1(prompt) or undex TMUX status bar
+
+### Day 23: January 25, 2017
+
+**Today's Progress**: Took out the debug to another function and added the osx-cpu-info.c file on main.
+Next step: call the lib functions on the main file.
