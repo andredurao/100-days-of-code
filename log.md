@@ -154,3 +154,8 @@ My goal is to split the main and lib files to get a lightweight executable that'
 
 **Today's Progress**: Took out the debug to another function and added the osx-cpu-info.c file on main.
 Next step: call the lib functions on the main file.
+
+### Day 24: January 27, 2017
+
+**Today's Progress** Added the example 04 from astaxies's book:processing form inputs
+
