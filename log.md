@@ -159,3 +159,10 @@ Next step: call the lib functions on the main file.
 
 **Today's Progress** Added the example 04 from astaxies's book:processing form inputs
 
+### Day 25: January 30, 2017
+
+**Today's Progress** Changed a few items on cpu-info-app
+
+### Day 26: January 31, 2017
+
+**Today's Progress** Added a string on cpu-info-app that will be used to concatenate all info on it
