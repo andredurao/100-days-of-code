@@ -166,3 +166,7 @@ Next step: call the lib functions on the main file.
 ### Day 26: January 31, 2017
 
 **Today's Progress** Added a string on cpu-info-app that will be used to concatenate all info on it
+
+### Day 27: February 01, 2017
+
+**Today's Progress** Dinamically allocated the memory (maloc) for infoString and used it via `strncat`
