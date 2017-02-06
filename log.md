@@ -170,3 +170,7 @@ Next step: call the lib functions on the main file.
 ### Day 27: February 01, 2017
 
 **Today's Progress** Dinamically allocated the memory (maloc) for infoString and used it via `strncat`
+
+### Day 28: February 06, 2017
+
+**Today's Progress** Added battery temperature function and option via getopt
