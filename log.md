@@ -174,3 +174,7 @@ Next step: call the lib functions on the main file.
 ### Day 28: February 06, 2017
 
 **Today's Progress** Added battery temperature function and option via getopt
+
+### Day 29: February 07, 2017
+
+**Today's Progress** Added battery health option and a important FIXME that changes the program behaviour
