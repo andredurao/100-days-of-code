@@ -178,3 +178,7 @@ Next step: call the lib functions on the main file.
 ### Day 29: February 07, 2017
 
 **Today's Progress** Added battery health option and a important FIXME that changes the program behaviour
+
+### Day 30: February 08, 2017
+
+**Today's Progress** Added battery cycle count function, but it's returning 1000. Now I need to check if that value is correct
