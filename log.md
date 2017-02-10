@@ -182,3 +182,7 @@ Next step: call the lib functions on the main file.
 ### Day 30: February 08, 2017
 
 **Today's Progress** Added battery cycle count function, but it's returning 1000. Now I need to check if that value is correct
+
+### Day 31: February 10, 2017
+
+**Today's Progress** Added battery time remaining function
