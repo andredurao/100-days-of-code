@@ -186,3 +186,7 @@ Next step: call the lib functions on the main file.
 ### Day 31: February 10, 2017
 
 **Today's Progress** Added battery time remaining function
+
+### Day 32: February 11, 2017
+
+**Today's Progress** Added fan speed function
